@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:00BCD4&height=200&section=header&text=Hey%20there!%20I'm%20Divyansh%20Agarwal%20👋&fontSize=30&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hey%20there!%20I'm%20Divyansh%20Agarwal%20👋&fontSize=30&fontColor=fff&animation=fadeIn)
 
 # 💡 Creative Builder • AI & Automation Enthusiast
 Crafting AI-powered tools, automation workflows, and playful digital experiences.
@@ -39,12 +39,12 @@ Crafting AI-powered tools, automation workflows, and playful digital experiences
 ## 📊 GitHub Stats (All-Time)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh723&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh723&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh723&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=🚀%20All-Time%20GitHub%20Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh723&theme=tokyonight" height="180px"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh723&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh723&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -54,8 +54,3 @@ Crafting AI-powered tools, automation workflows, and playful digital experiences
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://curious-builder-ai.lovable.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-agarwal-1b0641228)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tempest_4754)  
-
----
-
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:00BCD4&height=150&section=footer)
