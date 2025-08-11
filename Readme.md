@@ -40,9 +40,10 @@ Crafting AI-powered tools, automation workflows, and playful digital experiences
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyansh723&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh723&theme=tokyonight" height="180px"/>
 </p>  
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh723&theme=tokyonight" height="180px"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh723&layout=compact&theme=tokyonight" height="180px"/>
 </p>
